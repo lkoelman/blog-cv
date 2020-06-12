@@ -1,14 +1,14 @@
 [
   {
-    "name": "Account Surfer",
+    "name": "PhD Thesis",
     "logo": "/logos/as.svg",
-    "description": "Quickly switch between accounts and browsers.",
-    "link": "/posts/handle-chrome-profiles-with-account-surfer"
+    "description": "Cool project that does XYZ.",
+    "link": "/posts/phd-thesis"
   },
   {
-    "name": "Trello Bookmark",
+    "name": "Basal Ganglia Model",
     "logo": "/logos/trello-bookmark.svg",
-    "description": "Store your bookmarks as Trello Cards.",
-    "link": "/posts/trello-plus-gtd-equals-trello-bookmark"
+    "description": "Cool project that does ABC.",
+    "link": "/posts/bg-model"
   }
 ]

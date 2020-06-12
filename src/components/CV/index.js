@@ -19,7 +19,11 @@ const CV = () => (
     <Sidebar hideMobile={true} />
     <Content className="m-5">
       {data.header && <Header header={data.header} />}
-      {data.experiments && (
+      {/* TODO: Replace placeholder */}
+      <p style={{ textAlign: 'center', position: "relative", top: "50%" }}>
+        Download the PDF version using the link in the top left corner.
+      </p>
+      {/* data.experiments && (
         <Experiments experiments={data.experiments} tech={data.tech} />
       )}
       {data.pitchLine && <PitchLine pitchLine={data.pitchLine} />}
@@ -29,7 +33,7 @@ const CV = () => (
       {data.volunteer && <Volunteer volunteer={data.volunteer} />}
       {data.education && <Education education={data.education} />}
       {data.recommendations && <Recommendations recommendations={data.recommendations} />}
-      {data.footer && <Footer footer={data.footer} />}
+      {data.footer && <Footer footer={data.footer} />} */}
     </Content>
   </>
 )

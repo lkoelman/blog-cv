@@ -53,6 +53,7 @@ const createPages = async ({ graphql, actions }) => {
 
   const { edges } = result.data.allMarkdownRemark
 
+  // Format markdown files as either 'page' or 'post'
   edges.map(edge => {
     if (
       edge &&
