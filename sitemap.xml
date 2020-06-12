@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/cv</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/pages/as-privacy-policy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/posts/fix-chrome-scroll-flickering</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/posts/phd-thesis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/posts/bg-model</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/tag/chrome</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/tag/comp-neuro</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/tag/modeling</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/tag/neuroscience</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/tag/research</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/category/productivity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/category/research</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lkoelman.github.io/blog-cv/blog-cv/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
