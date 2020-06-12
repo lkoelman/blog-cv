@@ -1,6 +1,6 @@
 ---
 template: post
-title: PhD Thesis
+title: PhD thesis
 slug: /posts/phd-thesis
 draft: false
 priority: 0

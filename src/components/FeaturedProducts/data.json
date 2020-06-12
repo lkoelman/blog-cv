@@ -1,13 +1,13 @@
 [
   {
     "name": "PhD Thesis",
-    "logo": "/logos/as.svg",
+    "logo": "/logos/graduation-cap.svg",
     "description": "Cool project that does XYZ.",
     "link": "/posts/phd-thesis"
   },
   {
     "name": "Basal Ganglia Model",
-    "logo": "/logos/trello-bookmark.svg",
+    "logo": "/logos/brain-circuit-color.svg",
     "description": "Cool project that does ABC.",
     "link": "/posts/bg-model"
   }

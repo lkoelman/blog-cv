@@ -1,16 +1,15 @@
 ---
 template: post
-title: My Test Post
-slug: /posts/fix-chrome-scroll-flickering
+title: A test post
+slug: /posts/test-post
 draft: false
 priority: 0
 date: 2020-02-08T22:22:02.039Z
-description: |-
-  If you faced with scrolling issues in Chrome - disable this flag 
-  ```chrome://flags/#disable-threaded-scrolling```
+description: This is the description
 category: productivity
 tags:
-  - chrome
+  - test
+  - beta
 ---
 
-My random tech tip.
+My random tech tip (copied from the official documentation).

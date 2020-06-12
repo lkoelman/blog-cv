@@ -124,13 +124,15 @@ module.exports = {
     },
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
+    // Generates files/configs for deployment to netrlify
     'gatsby-plugin-netlify',
-    {
-      resolve: 'gatsby-plugin-netlify-cms',
-      options: {
-        modulePath: `${__dirname}/src/cms/index.js`
-      }
-    },
+    // Adds CMS through the <site>/admin route
+    // {
+    //   resolve: 'gatsby-plugin-netlify-cms',
+    //   options: {
+    //     modulePath: `${__dirname}/src/cms/index.js`
+    //   }
+    // },
     {
       resolve: 'gatsby-plugin-google-gtag',
       options: {

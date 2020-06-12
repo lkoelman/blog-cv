@@ -1,6 +1,6 @@
 ---
 template: post
-title: Basal Ganglia Model
+title: Basal ganglia network model
 slug: /posts/bg-model
 draft: false
 priority: 0
@@ -9,7 +9,10 @@ description: |-
   Implementation of basal ganglia network model.
 category: research
 tags:
-  - chrome
+  - comp-neuro
+  - neuroscience
+  - modeling
+  - research
 ---
 
 Here you can find implementation details of the biologically

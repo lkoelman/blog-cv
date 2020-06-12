@@ -14,7 +14,19 @@ https://www.gatsbyjs.org/docs/graphql-concepts/
 
 ## Deploying
 
+### Github pages
+
 https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/
+
+- `yarn run clean` - deletes .cache/ and public/
+- `yarn run deploy`
+
+### Netlify
+
+- make account
+- go through wizard and choose master branch as source
+- push to `master` branch and it will deploy automatically
+
 
 # Site structure
 
@@ -40,6 +52,7 @@ Entry points:
 
 - [ ] update site favicon
 
-- [ ] update CV data.json and layout
+- [ ] update CV
+    - `components/CV/index.js` and `data.json` 
 
 - [ ] 
