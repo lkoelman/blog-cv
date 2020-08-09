@@ -20,7 +20,7 @@ const Feed = ({ edges, allCategories }) =>
     } = edge
     let {
       node: {
-        frontmatter: { title }
+        frontmatter: { title, description }
       }
     } = edge
     const featured = priority > 0
@@ -92,17 +92,18 @@ const Feed = ({ edges, allCategories }) =>
                   <SelectOutlined className="text-3xl" /> {title}
                 </a>
               ) : (
-                <Link to={slug} className="text-black">
-                  {title}
-                </Link>
-              )}
+                  <Link to={slug} className="text-black">
+                    {title}
+                  </Link>
+                )}
             </h1>
-            <p className="text-gray-500 text-right">
+            {description}
+            <span className="text-gray-500 float-right">
               Posted{' '}
               <time dateTime={dayjs(date).format('MMMM D, YYYY')}>
                 {dayjs(date).fromNow()}
               </time>
-            </p>
+            </span>
           </Col>
         </Row>
 
